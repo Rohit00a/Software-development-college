@@ -76,3 +76,9 @@ KERNEL
 Kernel is a computer program that is the core of a computer's operating system, with complete control over everything in the system. The kernel give interactions between hardware and software components.
 
 Written in :C, Assembly language
+
+DATE  : 20/01/2019
+BARE METAL:-
+
+
+
