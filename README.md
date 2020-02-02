@@ -202,13 +202,11 @@ Data Serialization -
 Data serialization is the process of converting structured data to a format that allows sharing or storage of the data in a form that 
 allows recovery of its original structure.
 
-			      -------> JSON (Javascript object notation) 
-			      -------> YAML (Yet another markup language)
+	 		       -------> JSON (Javascript object notation) 
+	data serialization     -------> YAML (Yet another markup language)
 			       -------> XML (Extensible markup language)
 			       -------> PROTOCOL BUFFERS(Protobuf)
- {data serialization} 			              
-			      
-
+			              
 XML - 1998
 
 Extensible Markup Language is a markup language that defines a set of rules for encoding documents in a format that is both human-
