@@ -53,7 +53,6 @@ Integration,Continuous Delivery,(CI/CD) and Continuous Deployment.Most teams hav
 environment.
 
 Operating System (OS)
-
 An operating system is the primary software that manages all the hardware and other software on a computer. The operating system, also 
 known as an Operating System interfaces with the computer’s hardware and provides services that applications can use.
 
@@ -90,20 +89,16 @@ Why use Linux ?
 
 Linux makes very efficient use of the system's resources.This allows them to install Linux even on old hardware, thus helping in optimal 
 use of all the hardware resources. Linux runs on a range of hardware
-
 High stability: The Linux system is very stable and is not prone to crashes. The Linux OS runs exactly as fast as it did when first 
 installed, even after several years.
-
 Free: Linux is completely free and users do not need to pay for anything. All the basic software required by a typical user and even an 
 advanced user are available.
-
 Open source: The most important aspect of Linux is that its source code is available as it falls under the Free and Open Source 
 Software.The developer community benefits from this as its members have the freedom to view and modify the source code.
 
 WINDOWS
 Windows OS, computer operating system developed by Microsoft Corporation to run personal computers. Featuring the first graphical user 
 interface (GUI) for IBM-compatible PCs, the Windows OS soon dominated the PC market.
-
 Microsoft Windows. Operating system designed and produced by Microsoft Corporation. Similar to other operating systems, Windows makes a 
 computer system user-friendly by providing a graphical display and organizing information so that it can be easily accessed.
 
@@ -207,10 +202,12 @@ Data Serialization -
 Data serialization is the process of converting structured data to a format that allows sharing or storage of the data in a form that 
 allows recovery of its original structure.
 
-                              -------> JSON (Javascript object notation)
+                              
+			      -------> JSON (Javascript object notation)
  {data serialization}         -------> YAML (Yet another markup language)
                               -------> XML (Extensible markup language)
                               -------> PROTOCOL BUFFERS(Protobuf)
+			      
 
 XML - 1998
 
